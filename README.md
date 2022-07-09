@@ -15,7 +15,7 @@
 
 - 📫 Pode me mandar um e-mail **victor.salomaor@gmail.com**
 
-- 📄 Minhas experiências você pode encontrar aqui [https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/](https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/)
+- 📄 Minhas experiências você pode encontrar aqui [https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/](Linkedin)
 
 - ⚡ Fato engraçado sobre mim é que **Eu amo jogar CSGO e queria estudar Medicina antes de embarcar na tecnologia**
 
