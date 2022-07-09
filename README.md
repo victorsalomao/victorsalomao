@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/victorsalomao" target="blank"><img src="https://img.shields.io/twitter/follow/victorsalomao?logo=twitter&style=for-the-badge" alt="victorsalomao" /></a> </p>
 
-- 🔭 Estudando no momento back-end [Controle de Materiais](github.com/victorsalomao)
+- 🔭 Me desafiando e estudando no momento back-end com [NodeJS](https://nodejs.org/en/)
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados aqui [https://github.com/victorsalomao](https://github.com/victorsalomao)
 
-- 💬 Quem sabe eu possa te ajudar com **ReactJS, NodeJS, Java Spring**
+- 💬 Quem sabe eu possa te ajudar com alguma coisa, apesar de ter começado agora **ReactJS, NodeJS, Java Spring**
 
 - 📫 Pode me mandar um e-mail **victor.salomaor@gmail.com**
 
 - 📄 Minhas experiências você pode encontrar aqui [https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/](https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/)
 
-- ⚡ Fato engraçado **Eu amo jogar CSGO e queria estudar Medicina antes de embarcar na tecnologia**
+- ⚡ Fato engraçado sobre mim é que **Eu amo jogar CSGO e queria estudar Medicina antes de embarcar na tecnologia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
