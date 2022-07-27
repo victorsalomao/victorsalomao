@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/victorsalomao" target="blank"><img src="https://img.shields.io/twitter/follow/victorsalomao?logo=twitter&style=for-the-badge" alt="victorsalomao" /></a> </p>
 
-- 🔭 Me desafiando e estudando no momento back-end com [NodeJS](https://nodejs.org/en/)
+- 🔭 Me desafiando e estudando no momento back-end em [NodeJS](https://nodejs.org/en/)
 
 - 👨‍💻 Todos os meus projetos podem ser encontrados aqui [GitHub](https://github.com/victorsalomao)
 
