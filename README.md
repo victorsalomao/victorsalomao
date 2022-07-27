@@ -13,7 +13,7 @@
 
 - 💬 Quem sabe eu possa te ajudar com alguma coisa, apesar de ter começado agora **ReactJS, NodeJS, Java Spring**
 
-- 📫 Pode me mandar um e-mail [Email](**victor.salomaor@gmail.com**)
+- 📫 Pode me mandar um [Email](**victor.salomaor@gmail.com**) se precisar
 
 - 📄 Minhas experiências você pode encontrar aqui [Linkedin](https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/)
 
