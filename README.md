@@ -1,5 +1,5 @@
 <h1 align="center">Victor Salomão</h1>
-<h3 align="center">Engenheiro de Software | Arquitetura de Sistemas | Fullstack em evolução</h3>
+<h3 align="center">Engenheiro de Software | Arquitetura de Sistemas | Fullstack </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=victorsalomao&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,7 +9,7 @@
 
 Sou desenvolvedor com foco em **Engenharia de Software** e **Arquitetura de Sistemas**, atuando tanto no backend quanto no frontend, sempre priorizando escalabilidade, clareza de código e boas práticas. Tenho experiência com **Java (Spring Boot)**, **C++ com Qt**, **Node.js**, **Vue.js**, **React Native**, **Docker**, **PostgreSQL**, entre outras tecnologias modernas.
 
-Atualmente direciono minha atuação para a **estruturação de sistemas sólidos**, integração entre serviços via APIs REST, e desenvolvimento de soluções limpas, performáticas e com potencial de evolução contínua. Também faço uso avançado de **IA generativa (ChatGPT)** como aliada em arquitetura, documentação e automações.
+Atualmente direciono minha atuação para a **estruturação de sistemas sólidos**, integração entre serviços via APIs REST, e desenvolvimento de soluções limpas, performáticas e com potencial de evolução contínua. Também faço uso avançado de **IA generativa** como aliada em arquitetura, documentação e automações.
 
 ---
 
@@ -28,10 +28,10 @@ Atualmente direciono minha atuação para a **estruturação de sistemas sólido
   Desenvolvimento de endpoints com estrutura em DTOs, tratamento de exceções e autenticação.  
   Uso de Docker para isolamento de ambiente e testes com Postman.
 
-- **Sistema financeiro (freelance | Vue.js + Node.js)**  
+- **Sistema financeiro (Vue.js + Node.js)**  
   Desenvolvimento fullstack com consumo de API via Axios, rotas dinâmicas, gerenciamento de estado e regras condicionais para controle de parcelas. Backend com Node.js para orquestração de integrações e cálculos de negócio.
 
-- **Automação com IA generativa e n8n (em progresso)**  
+- **Automação com IA generativa e n8n (JavaScript || Python)**  
   Projeto experimental que conecta o OpenAI à plataforma n8n, simulando uma análise automática de entrada de dados e resposta inteligente com base em regras pré-estabelecidas.
 
 ---
