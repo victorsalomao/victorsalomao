@@ -61,6 +61,3 @@ Atualmente direciono minha atuação para a **estruturação de sistemas sólido
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorsalomao&show_icons=true&locale=pt-br&layout=compact" alt="Top langs" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorsalomao&show_icons=true&locale=pt-br" alt="GitHub stats" />
-</p>
