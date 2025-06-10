@@ -1,34 +1,71 @@
-<h1 align="center">E ae familia👋, me chamo Victor Salomão</h1>
-<h3 align="center">Amante de tecnologia</h3>
+<h1 align="center">Victor Salomão</h1>
+<h3 align="center">Desenvolvedor de Software | Backend & Integrações Inteligentes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorsalomao&label=Profile%20views&color=0e75b6&style=flat" alt="victorsalomao" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/victorsalomao" target="blank"><img src="https://img.shields.io/twitter/follow/victorsalomao?logo=twitter&style=for-the-badge" alt="victorsalomao" /></a> </p>
-
-- 🔭 Me desafiando e estudando no momento back-end em [NodeJS](https://nodejs.org/en/)
-
-- 👨‍💻 Todos os meus projetos podem ser encontrados aqui [GitHub](https://github.com/victorsalomao)
-
-- 💬 Quem sabe eu possa te ajudar com alguma coisa, apesar de ter começado agora **ReactJS, NodeJS, Java Spring**
-
-- 📫 Pode me mandar um [Email](**victor.salomaor@gmail.com**) se precisar
-
-- 📄 Minhas experiências você pode encontrar aqui [Linkedin](https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/)
-
-- ⚡ Fato engraçado sobre mim é que **Eu amo jogar CSGO e queria estudar Medicina antes de embarcar na tecnologia**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/victorsalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="victorsalo" height="30" width="40" /></a>
-<a href="https://twitter.com/victorsalomao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorsalomao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-salom%c3%a3o-ribeiro-236a66184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victor-salom%c3%a3o-ribeiro-236a66184/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/victorsalomao">
+    <img src="https://komarev.com/ghpvc/?username=victorsalomao&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorsalomao&show_icons=true&locale=en&layout=compact" alt="victorsalomao" /></p>
+Sou desenvolvedor com experiência em **Java (Spring Boot)**, **C++ com Qt**, **Python**, **JavaScript/TypeScript**, e tecnologias modernas de front-end como **Vue.js e React Native**. Atuo no desenvolvimento de aplicações escaláveis, com foco em **integração de sistemas via APIs REST**, **automação de fluxos** e aplicação prática de **IA generativa (ChatGPT)** para otimização de processos, geração de documentação e suporte técnico.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorsalomao&show_icons=true&locale=en" alt="victorsalomao" /></p>
+Tenho domínio em arquitetura de software (MVC, Clean, Hexagonal), versionamento com Git, conteinerização com Docker e CI/CD. Estou sempre buscando construir soluções limpas, com propósito e impacto real.
+
+---
+
+### 🧠 Atualmente focado em:
+- Modelagem de **fluxos automatizados com IA**
+- Integrações com sistemas públicos (REST, SOAP, XML)
+- Estruturação de arquitetura backend moderna
+- Desenvolvimento técnico com foco em escalabilidade e legibilidade
+
+---
+
+### 🚀 Projetos em destaque:
+- **Integração REST com sistema legado (Java + Spring Boot)**  
+  Consumo e envio de dados com estrutura em DTOs, tratamento de erros e logs estruturados.
+
+- **Sistema de expedição e auditoria (C++ com Qt)**  
+  Controle de processos logísticos com emissão de etiquetas, validação condicional e sinais em tempo real.
+
+- **Automação com IA generativa e n8n**  
+  Orquestração de fluxo inteligente para leitura de documentos, resposta via ChatGPT e integração simulada com sistemas externos.
+
+---
+
+### 🌐 Onde me encontrar:
+- [GitHub](https://github.com/victorsalomao)
+- [LinkedIn](https://www.linkedin.com/in/victor-salom%C3%A3o-ribeiro-236a66184/)
+- [E-mail](mailto:victor.salomaor@gmail.com)
+
+---
+
+### 🛠️ Skills e Ferramentas
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorsalomao&show_icons=true&locale=pt-br&layout=compact" alt="Top langs" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorsalomao&show_icons=true&locale=pt-br" alt="GitHub stats" />
+</p>
